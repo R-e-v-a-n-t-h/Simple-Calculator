@@ -1,0 +1,27 @@
+
+#calculator{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    flex-direction:column;
+
+
+}
+
+#innerCal{
+    display: grid;
+    grid-gap: 1%;
+    justify-content: center;
+    background-color: gray;
+    border-color: black;
+    border-width:5px;
+    border-radius: 10px;
+    border-style: solid;
+    margin:10%;
+    padding:1px 7px 11px 2px;
+}
+
+h1{
+    text-align: center;
+    font-family: cursive;
+}

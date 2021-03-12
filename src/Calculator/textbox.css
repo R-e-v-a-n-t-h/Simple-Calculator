@@ -1,0 +1,14 @@
+.inputHolder{
+    display: flex;
+    justify-content: space-around;
+}
+input{
+    text-align: right;
+    border-width: 2px;
+    border-radius:2px;
+    border-color: black;
+    height: 50px;
+    border-radius:5px;
+    width:min-content;
+    background-color:aliceblue;
+}
